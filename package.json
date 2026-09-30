@@ -1,0 +1,12 @@
+{
+  "name": "home-healing-map-v5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "居家疗愈地图 V5 的 Vercel 部署与云端存储后端",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.1"
+  }
+}
