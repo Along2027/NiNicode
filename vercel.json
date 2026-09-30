@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/居家疗愈地图_分步引导版V5.html"
+      "destination": "/map_v5.html"
     }
   ],
   "headers": [
